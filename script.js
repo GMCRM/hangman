@@ -1,10 +1,10 @@
 const words = [
-    "Nutrition", "Health", "Wellness", "Natural", "Fruits", "Vegetables", "Balance", "Phytonutrients", "DrHoward", "Fiber", 
-    "Spice", "Chemical", "Spiritial", "Physical", "AloeVera", "Apple", "Banana", "Blueberry", "Cherry", "Cranberry", "Grape", 
+    "Nutrition", "Health", "Wellness", "Natural", "Fruits", "Vegetables", "Balance", "Phytonutrients", "Fiber", 
+    "Spice", "Chemical", "Spiritual", "Physical", "AloeVera", "Apple", "Banana", "Blueberry", "Cherry", "Cranberry", "Grape", 
     "Grapefruit", "Lemon", "Mango", "Orange", "Papaya", "Pineapple", "Raspberry", "Strawberry", "Tomato", "Broccoli", "Cabbage", 
-    "Carrot", "Cauliflower", "Cayenne", "Celery", "Garlic", "Kale", "Onion", "Mushroom", "Soybean", "Spimach", "SweetPotato", 
-    "Wheatgrass", "Zucchini", "PsylliumHusk", "Flax", "Apple", "Monkfruit", "Allspice", "Cardamom", "Cinnamon", "Clove", 
-    "Coriander", "Cumin", "Flennel", "Fenugreek", "Ginger", "Mustard", "Nutmeg", "Turmeric"
+    "Carrot", "Cauliflower", "Cayenne", "Celery", "Garlic", "Kale", "Onion", "Mushroom", "Soybean", "Spinach", "SweetPotato", 
+    "Wheatgrass", "Apple", "Monkfruit", "Allspice", "Cardamom", "Cinnamon", "Clove", 
+    "Coriander", "Cumin", "Ginger", "Mustard", "Replacement", "Customer", "Success"  
 ];
 
 let selectedWord = '';
